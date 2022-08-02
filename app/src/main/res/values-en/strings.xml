@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryAppDicoding</string>
+    <string name="welcome">Welcome! Please take a time to login</string>
+    <string name="welcome_login">Welcome, %1$s!</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Password must have more than six characters</string>
+    <string name="empty_field">Field must be filled</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="success_register">Successfully registered</string>
+    <string name="success_upload">Story uploaded!</string>
+    <string name="failed_upload">Failed to upload story</string>
+    <string name="back_to_home">Back to home</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="information">Information</string>
+    <string name="didnt_have_account">Didn\'t have account?</string>
+    <string name="input_email">Insert email</string>
+    <string name="input_password">Insert password</string>
+    <string name="placeholder_description">description</string>
+    <string name="placeholder_username">username</string>
+    <string name="have_account">Have an account?</string>
+    <string name="register_account">Register an accounr</string>
+    <string name="failed_login">Failed to login</string>
+    <string name="failed_register">Failed to register</string>
+    <string name="wrong_emailpass_login">Wrong email/password</string>
+    <string name="input_name">Insert name</string>
+    <string name="start_explore">Start exploring</string>
+    <string name="logout">Logout</string>
+    <string name="notice_no_story">No story to be displayed</string>
+    <string name="notice_error_story">Error</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="submit">Submit</string>
+    <string name="insert_desc">Insert description</string>
+    <string name="front_camera">Front camera</string>
+    <string name="back_camera">Back camera</string>
+
+    <string name="add_story">Add story</string>
+    <string name="story">Story</string>
+
+    <string name="incomplete_upload">"Insert data first!"</string>
+    <string name="permission_denied">No permission granted</string>
+
+</resources>

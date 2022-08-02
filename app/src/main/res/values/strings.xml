@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryAppDicoding</string>
+    <string name="welcome">Selamat Datang! Silahkan Login Terlebih Dahulu</string>
+    <string name="welcome_login">Selamat Datang, %1$s!</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Password harus lebih dari enam karakter</string>
+    <string name="empty_field">Field harus diisi</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Daftar</string>
+    <string name="success_register">Berhasil mendaftar</string>
+    <string name="success_upload">Berhasil mengupload story</string>
+    <string name="failed_upload">Gagal mengupload story</string>
+    <string name="back_to_home">Kembali ke home</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="back_to_login">Kembali login</string>
+    <string name="information">Informasi</string>
+    <string name="didnt_have_account">Tidak punya akun?</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="placeholder_description">deskripsi</string>
+    <string name="placeholder_username">username</string>
+    <string name="have_account">Punya akun?</string>
+    <string name="register_account">Daftar Akun</string>
+    <string name="failed_login">Gagal Login</string>
+    <string name="failed_register">Gagal Daftar</string>
+    <string name="wrong_emailpass_login">Email/Password salah</string>
+    <string name="input_name">Masukkan Nama</string>
+    <string name="option" translatable="false">Option</string>
+    <string name="addstorybutton" translatable="false">addStoryButton</string>
+    <string name="start_explore">Mulai Menjelajah</string>
+    <string name="logout">Logout</string>
+    <string name="recyclerviewnotice" translatable="false">RecyclerViewNotice</string>
+    <string name="notice_no_story">Tidak ada story yang ditampilkan</string>
+    <string name="notice_error_story">Error</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="submit">Submit</string>
+    <string name="insert_desc">Masukkan deskripsi</string>
+    <string name="front_camera">Kamera depan</string>
+    <string name="back_camera">Kamera belakang</string>
+
+    <string name="add_story">Tambah story</string>
+    <string name="story">Story</string>
+
+    <string name="incomplete_upload">"Masukkan data terlebih dahulu!"</string>
+    <string name="permission_denied">Tidak mendapatkan permission</string>
+
+
+</resources>
